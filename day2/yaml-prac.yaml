@@ -1,0 +1,16 @@
+# key value
+furit: "apple"
+
+
+## array
+Furits: 
+- orange
+- apple 
+- banana
+
+
+
+Banana: 
+  calories: 105
+  fat: 0.4g
+  carbs: 27g
